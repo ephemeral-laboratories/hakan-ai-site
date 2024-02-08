@@ -36,12 +36,13 @@ h4, h5, h6 {
 
 body {
   font-family: $base-font-family;
-}
-body img {
-  align: middle;
-  margin: 5px auto auto auto;
-  display: block;
-  max-width: 600px;
+
+  img {
+    align: middle;
+    margin: 5px auto auto auto;
+    display: block;
+    max-width: 95vw;
+  }
 }
 
 p {
