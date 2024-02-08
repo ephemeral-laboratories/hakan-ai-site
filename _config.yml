@@ -1,0 +1,24 @@
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Jekyll defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+url: https://hakan.ai
+
+# Theme settings / site variables
+title: "Hakanai's site"
+description: Just Hakanai's web site.
+copyright: "Copyright ©️ 2024 Hakanai, Ephemeral Laboratories"
+author: Hakanai
+
+twitter:
+  username: "@HakanaiVR"
