@@ -4,7 +4,7 @@ title: Character Reference
 
 ## Character design sheets
 
-(Designer: @LamazeP)
+(Designer: [えせえし](https://fantia.jp/fanclubs/5425))
 
 Page 1
 
@@ -38,6 +38,6 @@ Digits
 
 ## _Inmon_
 
-(Designer: @nekozenaamatou)
+(Designer: [サッカリン秋月](https://skeb.jp/@nekozenaamatou))
 
 ![Inmon](Inmon.png)
