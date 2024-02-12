@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="-200 -200 400 400">
+    <g stroke-dasharray="1 5" stroke="white" fill="transparent">
+        <line x1="-200" x2="200" y1="0" y2="0"/>
+        <line y1="-200" y2="200" x1="0" x2="0"/>
+        <circle r="180" cx="0" cy="0"/>
+    </g>
+
+    <line x1="0" y1="0" x2="177.373421727" y2="-30.6377098499" stroke-width="2" stroke="#e83754"/>
+    red 350.2 = ,
+
+    <line x1="0" y1="0" x2="-160.381174354" y2="-81.7182899531" stroke-width="2" stroke="#4198df"/>
+    blue 207 =
+
+    <line x1="0" y1="0" x2="166.893093822" y2="67.4291868149" stroke-width="2" stroke="#e87837"/>
+    orange 22 =
+
+<!--    <line x1="0" y1="0" x2="-60.9728256442" y2="169.358538412" stroke-width="2" stroke="#5fe843"/>-->
+<!--    green 95 =-->
+
+    <line x1="0" y1="0" x2="-177.373421727" y2="30.6377098499" stroke-width="2" stroke="#37E8CB"/>
+    green 170.2
+
+</svg>

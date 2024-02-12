@@ -1,5 +1,6 @@
 ---
-Title: Colours
+title: Colours
+image: brand-plot.svg
 ---
 
 The main red is [Desire](https://www.color-name.com/hex/e93653)

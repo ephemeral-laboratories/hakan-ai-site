@@ -6,6 +6,7 @@ google-ID: 'G-VN4V5PJD6R'
 
 menu:
   - {name: 'Character Reference', url: 'character-reference/'}
+  - {name: 'Colours',             url: 'colours/'}
 #  - {name: 'Learning Resources', url: 'resources'}
 #  - {name: 'Sample Posts',       url: 'sample-posts'}
 #  - {name: 'Documentation',      url: 'documentation'}
