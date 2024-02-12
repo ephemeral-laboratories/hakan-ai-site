@@ -4,7 +4,7 @@ title: Character Reference
 
 ## Character design sheets
 
-(Designer: [えせえし](https://fantia.jp/fanclubs/5425))
+(Designer: [ラマーズP](https://fantia.jp/fanclubs/5425))
 
 Page 1
 
