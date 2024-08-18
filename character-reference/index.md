@@ -1,6 +1,7 @@
 ---
 title: Character Reference
 image: Character-Design-Sheet-1.jpg
+toc: true
 ---
 
 ## Character design sheets
